@@ -29,7 +29,7 @@ Es la relación entre las variables del sistema
 Dado que el nodo representa una señal y la flecha indica la relación entre variables, cuando una flecha parte de un nodo —es decir, cuando hay una conexión de entrada a salida—, se interpreta que la señal de salida es igual a la señal de entrada multiplicada por la ganancia o relación entre esas variables.
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
  
-  <img src="images/plantilla/producto.png" alt="M2" width="300" height="200">
+  <img src="images/plantilla/ producto.png" alt="M2" width="300" height="200">
 </div>
 
 $$Y(s)=F(s)X(s)$$
