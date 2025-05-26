@@ -142,36 +142,36 @@ sp.pprint(X_s)
 
 📚 Ejercicio 1: Obtener la función de transferencia del siguiente diagrama de bloques:
 
-![ejercicio 1](ejercicio1.png)
+![ejercicio 1](images/plantilla/ejercicio1.png)
 
 Paso a paso
 
-![ejercicio 1](1.1.png)
+![ejercicio 1](images/plantilla/1.1.png)
 
-![ejercicio 1](1.2.png)
+![ejercicio 1](images/plantilla/1.2.png)
 
-![ejercicio 1](1.3.png)
+![ejercicio 1](images/plantilla/1.3.png)
 
-![ejercicio 1](1.4.png)
+![ejercicio 1](images/plantilla/1.4.png)
 
 📚 Ejercicio 2: Obtener la función de transferencia simplificada correspondiente al siguiente diagrama de bloques.
 
-![ejercicio 2](ejercicio2.png)
+![ejercicio 2](images/plantilla/ejercicio2.png)
 
 Paso 1
 Aplicamos la regla 5 de la tabla para bloques en paralelo, sumando así G2 y G3.
 
-![ejercicio 1](2.1.png)
+![ejercicio 1](images/plantilla/2.1.png)
 
 Paso 2
 Después, con la regla 4 para combinación de bloques reducimos G1:
 
-![ejercicio 1](2.2.png)
+![ejercicio 1](images/plantilla/2.2.png)
 
 Paso 3
 Por último, aplicamos la regla 13 para eliminar la retroalimentación y así obtenemos nuestro bloque equivalente.
 
-![ejercicio 1](2.3.png)
+![ejercicio 1](images/plantilla/2.3.png)
 
 ## 9. Conclusiones
 Los diagramas de bloques permiten modelar sistemas de forma visual y modular.
