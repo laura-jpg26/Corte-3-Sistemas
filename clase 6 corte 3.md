@@ -97,7 +97,7 @@ print("H(s) =", simplify(H))
 
 Calcular la función de transferencia del siguiente sistema en lazo cerrado:
 
-<img src="images/plantilla/solucionclase2.png"  width="500" height="500">
+<img src="images/plantilla/solucionclase2.png"  width="700" height="800">
 
 Objetivo:
 Obtener la función de transferencia del sistema:
