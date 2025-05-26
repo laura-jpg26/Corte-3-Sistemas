@@ -24,7 +24,8 @@ En esta clase se abordó el análisis de sistemas representados por diagramas de
 ## 9. Ejercicios
 📚Ejemplo 1: Cálculo de la función de transferencia con Mason: haga este sistema:
 
-![solucion1](solucionclase1.png)
+<img src="images/plantilla/solucionclase1.png"  width="500" height="500">
+
 
 📌 Paso 1: Identificar trayectorias hacia adelante
 Analizamos los caminos desde la entrada hasta la salida:
@@ -96,7 +97,7 @@ print("H(s) =", simplify(H))
 
 Calcular la función de transferencia del siguiente sistema en lazo cerrado:
 
-![solucion2](solucionclase2.png)
+<img src="images/plantilla/solucionclase2.png"  width="500" height="500">
 
 Objetivo:
 Obtener la función de transferencia del sistema:
