@@ -102,15 +102,18 @@ $$X(s)=\frac{1}{ms^{2}+bs+k}F(s)$$
 ## 6. Figuras
 
 💡**Ejemplo 1:**
+ <img src="images/plantilla/1.png"  width="500" height="500">
 
 ![Figura 1. Diagrama de bloques del sistema de mezcla.](1.png)
 
 💡**Ejemplo 2:**
+ <img src="images/plantilla/2.png"  width="500" height="500">
 
 ![Figura 2. Diagrama de bloques del sistema térmico.](2.png)
 
 💡**Ejemplo 3:**
 
+ <img src="images/plantilla/3.png"  width="500" height="500">
 ![Figura 3. Diagrama de bloques del sistema masa-resorte-amortiguador.](3.png)
 
 
