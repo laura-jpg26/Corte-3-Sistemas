@@ -102,19 +102,20 @@ $$X(s)=\frac{1}{ms^{2}+bs+k}F(s)$$
 ## 6. Figuras
 
 💡**Ejemplo 1:**
+
  <img src="images/plantilla/1.png"  width="500" height="500">
 
-![Figura 1. Diagrama de bloques del sistema de mezcla.](1.png)
 
 💡**Ejemplo 2:**
+
  <img src="images/plantilla/2.png"  width="500" height="500">
 
-![Figura 2. Diagrama de bloques del sistema térmico.](2.png)
+
 
 💡**Ejemplo 3:**
 
  <img src="images/plantilla/3.png"  width="500" height="500">
-![Figura 3. Diagrama de bloques del sistema masa-resorte-amortiguador.](3.png)
+
 
 
 
@@ -145,36 +146,42 @@ sp.pprint(X_s)
 
 📚 Ejercicio 1: Obtener la función de transferencia del siguiente diagrama de bloques:
 
-![ejercicio 1](images/plantilla/ejercicio1.png)
+ <img src="images/plantilla/ejercicio1.png"  width="500" height="500">
+
 
 Paso a paso
+ <img src="images/plantilla/1.1.png"  width="500" height="500">
 
-![ejercicio 1](images/plantilla/1.1.png)
+ <img src="images/plantilla/1.2.png"  width="500" height="500">
 
-![ejercicio 1](images/plantilla/1.2.png)
+ <img src="images/plantilla/1.3.png"  width="500" height="500">
 
-![ejercicio 1](images/plantilla/1.3.png)
+ <img src="images/plantilla/1.4.png"  width="500" height="500">
 
-![ejercicio 1](images/plantilla/1.4.png)
+
 
 📚 Ejercicio 2: Obtener la función de transferencia simplificada correspondiente al siguiente diagrama de bloques.
 
-![ejercicio 2](images/plantilla/ejercicio2.png)
+ <img src="images/plantilla/ejercioio2.png"  width="500" height="500">
+
 
 Paso 1
 Aplicamos la regla 5 de la tabla para bloques en paralelo, sumando así G2 y G3.
 
-![ejercicio 1](images/plantilla/2.1.png)
+ <img src="images/plantilla/2.1.png"  width="500" height="500">
+
 
 Paso 2
 Después, con la regla 4 para combinación de bloques reducimos G1:
 
-![ejercicio 1](images/plantilla/2.2.png)
+ <img src="images/plantilla/2.2.png"  width="500" height="500">
+
 
 Paso 3
 Por último, aplicamos la regla 13 para eliminar la retroalimentación y así obtenemos nuestro bloque equivalente.
 
-![ejercicio 1](images/plantilla/2.3.png)
+ <img src="images/plantilla/2.3.png"  width="500" height="500">
+
 
 ## 9. Conclusiones
 Los diagramas de bloques permiten modelar sistemas de forma visual y modular.
