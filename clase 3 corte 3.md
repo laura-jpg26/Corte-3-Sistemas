@@ -157,7 +157,7 @@ Paso a paso
 
  <img src="images/plantilla/1.3.png"  width="900" height="500">
 
- <img src="images/plantilla/1.4.png"  width="900" height="500">
+ <img src="images/plantilla/1.4.png"  width="1200" height="300">
 
 
 
