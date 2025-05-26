@@ -103,18 +103,18 @@ $$X(s)=\frac{1}{ms^{2}+bs+k}F(s)$$
 
 💡**Ejemplo 1:**
 
- <img src="images/plantilla/1.png"  width="500" height="500">
+ <img src="images/plantilla/1.png"  width="700" height="500">
 
 
 💡**Ejemplo 2:**
 
- <img src="images/plantilla/2.png"  width="500" height="500">
+ <img src="images/plantilla/2.png"  width="700" height="500">
 
 
 
 💡**Ejemplo 3:**
 
- <img src="images/plantilla/3.png"  width="500" height="500">
+ <img src="images/plantilla/3.png"  width="700" height="500">
 
 
 
@@ -150,37 +150,37 @@ sp.pprint(X_s)
 
 
 Paso a paso
- <img src="images/plantilla/1.1.png"  width="500" height="500">
+ <img src="images/plantilla/1.1.png"  width="700" height="500">
 
- <img src="images/plantilla/1.2.png"  width="500" height="500">
+ <img src="images/plantilla/1.2.png"  width="700" height="500">
 
- <img src="images/plantilla/1.3.png"  width="500" height="500">
+ <img src="images/plantilla/1.3.png"  width="700" height="500">
 
- <img src="images/plantilla/1.4.png"  width="500" height="500">
+ <img src="images/plantilla/1.4.png"  width="700" height="500">
 
 
 
 📚 Ejercicio 2: Obtener la función de transferencia simplificada correspondiente al siguiente diagrama de bloques.
 
- <img src="images/plantilla/ejercioio2.png"  width="500" height="500">
+ <img src="images/plantilla/ejercioio2.png"  width="700" height="500">
 
 
 Paso 1
 Aplicamos la regla 5 de la tabla para bloques en paralelo, sumando así G2 y G3.
 
- <img src="images/plantilla/2.1.png"  width="500" height="500">
+ <img src="images/plantilla/2.1.png"  width="700" height="500">
 
 
 Paso 2
 Después, con la regla 4 para combinación de bloques reducimos G1:
 
- <img src="images/plantilla/2.2.png"  width="500" height="500">
+ <img src="images/plantilla/2.2.png"  width="700" height="500">
 
 
 Paso 3
 Por último, aplicamos la regla 13 para eliminar la retroalimentación y así obtenemos nuestro bloque equivalente.
 
- <img src="images/plantilla/2.3.png"  width="500" height="500">
+ <img src="images/plantilla/2.3.png"  width="700" height="500">
 
 
 ## 9. Conclusiones
