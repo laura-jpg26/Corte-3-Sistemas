@@ -163,7 +163,7 @@ Paso a paso
 
 📚 Ejercicio 2: Obtener la función de transferencia simplificada correspondiente al siguiente diagrama de bloques.
 
- <img src="images/plantilla/ejercioio2.png"  width="700" height="500">
+ <img src="images/plantilla/ejercicio2.png"  width="700" height="500">
 
 
 Paso 1
