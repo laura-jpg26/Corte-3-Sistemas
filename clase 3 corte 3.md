@@ -150,13 +150,14 @@ sp.pprint(X_s)
 
 
 Paso a paso
- <img src="images/plantilla/1.1.png"  width="700" height="500">
 
- <img src="images/plantilla/1.2.png"  width="700" height="500">
+ <img src="images/plantilla/1.1.png"  width="900" height="500">
 
- <img src="images/plantilla/1.3.png"  width="700" height="500">
+ <img src="images/plantilla/1.2.png"  width="900" height="500">
 
- <img src="images/plantilla/1.4.png"  width="700" height="500">
+ <img src="images/plantilla/1.3.png"  width="900" height="500">
+
+ <img src="images/plantilla/1.4.png"  width="900" height="500">
 
 
 
